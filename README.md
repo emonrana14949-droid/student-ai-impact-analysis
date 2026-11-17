@@ -2,6 +2,8 @@
 
 A complete beginner-friendly **Data Science project** built with **Pandas, NumPy and Matplotlib**. It analyses how students' AI tool usage, study habits, attendance and creativity scores relate to academic performance.
 
+📖 **New here?** Read the full step-by-step explanation of everything in this project: [PROJECT_GUIDE.md](PROJECT_GUIDE.md)
+
 > The dataset in this project is synthetic practice data generated with NumPy. It is made for learning the full workflow: data generation → cleaning → analysis → visualization → insights.
 
 ## Project Highlights
